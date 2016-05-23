@@ -1,0 +1,2 @@
+master: 10.188.1.40
+id: {{ minion_id }}
